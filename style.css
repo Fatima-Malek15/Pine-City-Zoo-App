@@ -69,3 +69,25 @@ body{
     text-decoration: none;
     padding-top: 12px;
 }
+
+#main{
+    margin-top: 119px;
+    background-image: url('images/map-blur.png');
+    background-repeat: repeat-y;
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+a.info-box{
+    text-decoration: none;
+    background: rgba(225, 225, 225, 0,8);
+    width: 90%;
+    height: 90px;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 1px;
+}
